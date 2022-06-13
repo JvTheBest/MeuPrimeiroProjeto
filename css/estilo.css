@@ -124,68 +124,7 @@ body{
 	background-color: white;
 	color: black;
 }
-/*#D1a{*/
-	/*padding-left: 0px ;
-	padding-right: 0px;
-	margin-top: 7px;
-	margin-left: 7px;
-	width: 190px;
-	min-height: 150px;
-	border: 0px blue;
-	border-style: solid;
-	border-radius: 10px;
-	float: center;
-	background-color: #87CEEB;
-	color: black;*/
-	/*background-image: url('../img/monitor1edit.jpg');*/
 
-/*}
-}*/
-/*#D1b{
-	padding-left: 0px ;
-	padding-right: 0px;
-	margin-top: 7px;
-	margin-left: 7px;
-	width: 190px;
-	min-height: 150px;
-	border: 0px blue;
-	border-style: solid;
-	border-radius: 10px;
-	float: center;
-	background-color: #87CEEB;
-	color: black;
-	background-image: url('../img/Tecladoom1.jpg');
-}
-#D1c{
-	padding-left: 0px ;
-	padding-right: 0px;
-	margin-top: 7px;
-	margin-left: 7px;
-	width: 190px;
-	min-height: 150px;
-	border: 0px blue;
-	border-style: solid;
-	border-radius: 10px;
-	float: center;
-	background-color: white;
-	color: black;
-	background-image: url('../img/headset1.png');
-}
-#D1d{
-	padding-left: 0px ;
-	padding-right: 0px;
-	margin-top: 7px;
-	margin-left: 7px;
-	width: 190px;
-	min-height: 150px;
-	border: 0px blue;
-	border-style: solid;
-	border-radius: 10px;
-	float: center;
-	background-color: #87CEEB;
-	color: black;
-	background-image: url('../img/mouse1.jpg');
-}*/
 .rodape {
     margin-top: 1px;
     width: 100%;
@@ -293,30 +232,3 @@ body{
 	color: black;
 	border-bottom:3px solid #708090;
 }
-/*#menu-site-ho ul {
-	padding:3px;
-	margin:2px;
-	background-color: white;
-	list-style:none;
-	font-size: 20px;
-	font-family: helvetica;
-
-}
-#menu-site-ho ul li { 
-	display: inline-block; 
-}
-#menu-site-ho ul li a {
-	margin: 2px;
-	padding: 10px;
-	display: inline-block;
-
-	/* visual do link */
-	/*background-color:#E6E6FA;
-	color: grey;
-	text-decoration: none;
-	border-radius: 10px;
-}
-#menu-site-ho ul li a:hover {
-	background-color: #E6E6FA;
-	color: black;
-	border-bottom:3px solid #708090;*/*/
