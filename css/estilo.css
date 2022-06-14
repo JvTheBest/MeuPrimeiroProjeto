@@ -19,8 +19,8 @@ body{
 .corpo{
 	margin: 0 auto;
     width: 1300px;
-    min-height: 1241px;
-    border: 0px limegreen;
+    min-height: 1141px;
+    border: 2px limegreen;
     border-style: solid;
     border-radius: 10px;
 }
@@ -128,7 +128,7 @@ body{
 .rodape {
     margin-top: 1px;
     width: 100%;
-    height: 350px;
+    height: 250px;
     border: 1px blue;
     border-style: solid;
     border-radius: 10px;
@@ -159,7 +159,7 @@ body{
 	/* visual do link */
 	background-color:grey;
 	color: white;
-	text-decoration: underline;
+	text-decoration: none;
 	border: 1px white;
 	border-style: solid;
 	border-radius: 10px;
